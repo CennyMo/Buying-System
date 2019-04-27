@@ -17,4 +17,4 @@ void user_register();
 void staff_register();
 
 # 系统功能
-![Image text](https://github.com/CennyMo/Buying-System/raw/master/Assets/Image/1.png)
+![Image text](https://github.com/CennyMo/Buying-System/raw/master/Buying-System/img/1.png)
